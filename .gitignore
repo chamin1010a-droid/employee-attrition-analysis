@@ -1,0 +1,8 @@
+# Data
+data/
+employee.db
+
+# Python
+__pycache__/
+*.pyc
+.env
